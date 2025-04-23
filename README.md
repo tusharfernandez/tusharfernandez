@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Sleep Health And Lifestyle Patterns**
+- 🔭 I’m currently working on **Crafting Intelligent Mobile Experiences on Android and iOS**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning Models and their Implementations to Solve Real World Problems**
 
-- 👯 I’m looking to collaborate on **Data Analysis projects**
+- 👯 I’m looking to collaborate on **Android Development projects**
 
-- 💬 Ask me about **Data Analysis, Statistics, Data Visualisation, Python, Excel, Tableau, Power BI, Version Control**
+- 💬 Ask me about **Android/iOS Development, Java, Node.js, Flutter, Python, Bootstrap, Data Visualisation, MySQL, Tableau, Power BI, Version Control**
 
 - 📫 How to reach me **tusharfernandez812@gmail.com**
 
